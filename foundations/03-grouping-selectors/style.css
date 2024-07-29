@@ -1,0 +1,13 @@
+.opt1{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.opt2{
+    background-color: #ffff00;
+}
+
+.opt1, .opt2{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
